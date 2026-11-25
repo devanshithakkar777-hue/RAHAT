@@ -1,5 +1,10 @@
 # RAHAT — Intelligent Relief Platform
 
+[![Live demo](https://img.shields.io/badge/Live%20demo-GitHub%20Pages-46E3B7?style=for-the-badge&logo=github&logoColor=black)](https://devanshithakkar777-hue.github.io/RAHAT/RAHAT_App.html)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+> **Try it live:** <https://devanshithakkar777-hue.github.io/RAHAT/RAHAT_App.html>
+
 **The Right Resource, To the Right Location, At the Right Time.**
 
 Built by **Team SevaTech** for Smart India Hackathon 2026.
