@@ -7,7 +7,7 @@
 
 **The Right Resource, To the Right Location, At the Right Time.**
 
-Built by **Team SevaTech** for Smart India Hackathon 2026.
+Concept by **Team SevaTech** for Smart India Hackathon 2026. The complete application was built by [Devanshi Thakkar](https://github.com/devanshithakkar777-hue).
 
 RAHAT is a government-verified disaster relief platform that connects citizens to itemized, authenticated relief needs and tracks every rupee and every relief item from pledge to delivery. It also opens up the *public funds* side of disaster relief — NDRF, SDRF, CSR, and PM CARES money — to the same level of citizen transparency applied to individual donations.
 
@@ -152,7 +152,9 @@ This is a hackathon prototype. To use it honestly in a demo or submission:
 
 ## Team
 
-**SevaTech** — Smart India Hackathon 2026
+**Team SevaTech** — concept, Smart India Hackathon 2026
+
+**Devanshi Thakkar** — sole developer: built the complete application
 
 ---
 
