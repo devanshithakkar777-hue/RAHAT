@@ -158,4 +158,4 @@ This is a hackathon prototype. To use it honestly in a demo or submission:
 
 ## License
 
-Prototype built for Smart India Hackathon 2026. All rights reserved by Team SevaTech unless otherwise specified.
+Released under the [MIT License](LICENSE). Prototype built for Smart India Hackathon 2026 by Team SevaTech.
